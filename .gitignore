@@ -1,3 +1,4 @@
 # Generated ANTLR files
 *.java
 *.tokens
+*.class
